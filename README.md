@@ -9,3 +9,4 @@ This project was created to practice with:
 3. Functional options
 4. The stringer package and auto-generated files
 5. Slice sorting, filtering and shuffling
+6. Adding comments for documentation
